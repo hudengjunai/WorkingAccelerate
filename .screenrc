@@ -1,0 +1,2 @@
+escape ^Jj
+caption always "%{=B Bb} %{=B YK}%-w%<%{=B Rk} %n %t /%{=B GK}%+w%-02=%{=B B"
